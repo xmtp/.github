@@ -8,4 +8,4 @@
 
 📜 Read our [XMTP Improvement Proposals (XIPs)](https://github.com/xmtp/XIPs)
 
-🐦 Follow [@xmtp_](https://twitter.com/xmtp) on Twitter
+🐦 Follow [@xmtp_](https://twitter.com/xmtp_) on Twitter
