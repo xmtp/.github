@@ -1,6 +1,6 @@
 # XMTP: the web3 messaging protocol
 
-📚 Read [our docs](https://docs.xmtp.org) on how start building with XMTP
+📚 Read [our docs](https://docs.xmtp.org) on how to start building with XMTP
 
 💬 Check out our [Example Chat App](https://github.com/xmtp/example-chat-react), powered by XMTP
 
