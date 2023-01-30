@@ -2,7 +2,9 @@
 
 📚 Read [our docs](https://docs.xmtp.org) on how to start building with XMTP
 
-💬 Check out our [Example Chat App](https://github.com/xmtp/example-chat-react), powered by XMTP
+💬 Check out the [Quickstart React chat app](https://github.com/xmtp/example-chat-react), demonstrating core capabilities of the XMTP client SDK
+
+💬 Check out the [XMTP Inbox chat app](https://github.com/xmtp-labs/xmtp-inbox-web), demonstrating core and advanced capabilities of the XMTP client SDK
 
 💾 Explore our [JavaScript SDK](https://github.com/xmtp/xmtp-js) for building messaging experiences that use XMTP
 
