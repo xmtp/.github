@@ -4,7 +4,7 @@
 
 🥷🏻 Hackathons: <https://xmtp.org/hackathons>
 
-📚 Tutorials: https://xmtp.org/tutorials
+📚 Tutorials: <https://xmtp.org/tutorials>
 
 💨 Quickstart: https://xmtp.org/start
 
