@@ -2,7 +2,7 @@
 
 ✨ Built with XMTP: <https://xmtp.org/apps>
 
-🥷🏻 Hackathons: https://xmtp.org/hackathons
+🥷🏻 Hackathons: <https://xmtp.org/hackathons>
 
 📚 Tutorials: https://xmtp.org/tutorials
 
