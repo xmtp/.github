@@ -6,6 +6,6 @@
 
 📚 Tutorials: <https://xmtp.org/tutorials>
 
-💨 Quickstart: https://xmtp.org/start
+💨 Quickstart: <https://xmtp.org/start>
 
 📖 Docs: https://xmtp.org/docs
