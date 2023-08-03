@@ -8,4 +8,4 @@
 
 💨 Quickstart: <https://xmtp.org/start>
 
-📖 Docs: https://xmtp.org/docs
+📖 Docs: <https://xmtp.org/docs>
