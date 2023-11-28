@@ -9,3 +9,5 @@
 💨 Quickstart: <https://xmtp.org/start>
 
 📖 Docs: <https://xmtp.org/docs>
+
+💡 Community forums: <https://community.xmtp.org/>
