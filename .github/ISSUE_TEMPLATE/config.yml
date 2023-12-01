@@ -1,4 +1,4 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
   - name: Have questions about how to build with XMTP?
     url: https://github.com/orgs/xmtp/discussions/categories/q-a
