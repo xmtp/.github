@@ -2,11 +2,9 @@
 
 ✨ Built with XMTP: <https://xmtp.org/apps>
 
-🥷🏻 Hackathons: <https://xmtp.org/hackathons>
+💨 Quickstart: <https://xmtp.org/start>
 
 📚 Tutorials: <https://xmtp.org/tutorials>
-
-💨 Quickstart: <https://xmtp.org/start>
 
 📖 Docs: <https://xmtp.org/docs>
 
