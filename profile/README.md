@@ -1,12 +1,10 @@
 # XMTP: The open protocol for web3 messaging
-Over [2 million](https://dune.com/xmtp_team/dash) web3 identities rely on apps built with XMTP for secure, private, and portable messaging.
+Over 2 million web3 identities rely on apps built with XMTP for secure, private, and portable messaging.
 
-✨ Built with XMTP: <https://xmtp.org/apps>
+✨ Built with XMTP: <https://xmtp.org/>
 
-💨 Quickstart: <https://xmtp.org/start>
+💨 Quickstart: <https://docs.xmtp.org/quickstart/>
 
-📚 Tutorials: <https://xmtp.org/tutorials>
-
-📖 Docs: <https://xmtp.org/docs>
+📖 Docs: <https://docs.xmtp.org/>
 
 💡 Community forums: <https://community.xmtp.org/>
