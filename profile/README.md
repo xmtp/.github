@@ -1,8 +1,9 @@
-# XMTP: The open protocol for web3 messaging
-Over 2 million web3 identities rely on apps built with XMTP for secure, private, and portable messaging.
+# The largest & most secure decentralized messaging network
 
-✨ Built with XMTP: <https://xmtp.org/>
+Enterprise-grade secure messaging—powered by decentralization. Start building group chats, DMs, and notifications in minutes.
 
 📖 Docs: <https://docs.xmtp.org/>
+
+🛟 Dev support: Open a bug or feature request on the Issues tab in the relevant repo
 
 💡 Community forums: <https://community.xmtp.org/>
