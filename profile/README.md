@@ -2,8 +2,8 @@
 
 Enterprise-grade secure messaging—powered by decentralization. Start building group chats, DMs, and notifications in minutes.
 
-📖 Docs: <https://docs.xmtp.org/>
+📖 **[Docs](https://docs.xmtp.org/)**
 
-🛟 Dev support: Open a bug or feature request on the Issues tab in the relevant repo
+🛟 **Dev support**: Open an issue in the relevant repo
 
-💡 Community forums: <https://community.xmtp.org/>
+💡 **[Community forums](https://community.xmtp.org/)**
