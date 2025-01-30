@@ -6,9 +6,9 @@ By participating in this project, you agree to abide by the [XMTP code of conduc
 
 ## Pull requests
 
-XMTP welcomes pull requests from everyone. 
+XMTP welcomes pull requests from everyone.
 
-Before diving in, consider posting to [XMTP Discord](https://discord.gg/xmtp) or [XMTP GitHub Discussions](https://github.com/orgs/xmtp/discussions) to get a quick temperature check on your idea.
+Before diving in, consider posting to the [XMTP Community Forums](https://community.xmtp.org/) to get a quick temperature check on your idea.
 
 ## Bugs
 
@@ -20,8 +20,8 @@ Open a feature request using the **Issues** tab in this repo to suggest an idea 
 
 ## Questions
 
-Have questions? Learn with the community by posting to [XMTP Discord](https://discord.gg/xmtp) or [XMTP GitHub Discussions](https://github.com/orgs/xmtp/discussions).
+Have questions? Learn with the community by posting to the [XMTP Community Forums](https://community.xmtp.org/).
 
 ## Follow XMTP
 
-To keep up with the latest XMTP news and releases, follow [@XMTP_](https://twitter.com/xmtp_) on Twitter.
+To keep up with the latest XMTP news and releases, follow [@xmtp\_](https://twitter.com/xmtp_) on Twitter.
