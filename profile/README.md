@@ -6,4 +6,4 @@ Enterprise-grade secure messaging—powered by decentralization. Start building 
 
 🛟 **Dev support**: Open an issue in the relevant repo
 
-💡 **[Community forums](https://community.xmtp.org/)**
+💡 **[Technical forums](https://community.xmtp.org/)**
